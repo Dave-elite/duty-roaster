@@ -1,0 +1,130 @@
+{
+  "duty": [
+    {
+      "id": "f3err3",
+      "name": "Vinitta",
+      "cleaning_time": "After supper",
+      "duty": "Wash utensils"
+    },
+    {
+      "id": "aa5c",
+      "name": "David",
+      "cleaning_time": "After Supper",
+      "duty": "Choose movie"
+    },
+    {
+      "id": "86be",
+      "name": "Liz",
+      "cleaning_time": "Moring",
+      "duty": "cooking"
+    },
+    {
+      "id": "efcc",
+      "name": "Liz",
+      "cleaning_time": "Moring",
+      "duty": "cooking"
+    },
+    {
+      "id": "604c",
+      "name": "Liz",
+      "cleaning_time": "Moring",
+      "duty": "cooking"
+    },
+    {
+      "id": "9137",
+      "name": "Liz",
+      "cleaning_time": "Moring",
+      "duty": "cooking"
+    },
+    {
+      "id": "e300",
+      "name": "Liz",
+      "cleaning_time": "Moring",
+      "duty": "cooking"
+    },
+    {
+      "id": "2c20",
+      "name": "Liz",
+      "cleaning_time": "Moring",
+      "duty": "cooking"
+    },
+    {
+      "id": "377c",
+      "name": "Liz",
+      "cleaning_time": "Moring",
+      "duty": "cooking"
+    },
+    {
+      "id": "eccb",
+      "name": "Liz",
+      "cleaning_time": "Moring",
+      "duty": "cooking"
+    },
+    {
+      "id": "15d1",
+      "name": "Liz",
+      "cleaning_time": "Moring",
+      "duty": "cooking"
+    },
+    {
+      "id": "7fdd",
+      "name": "Liz",
+      "cleaning_time": "Moring",
+      "duty": "cooking"
+    },
+    {
+      "id": "ed94",
+      "name": "Liz",
+      "cleaning_time": "Moring",
+      "duty": "cooking"
+    },
+    {
+      "id": "6842",
+      "name": "Liz",
+      "cleaning_time": "cooking",
+      "duty": ""
+    },
+    {
+      "id": "4632",
+      "name": "Liz",
+      "cleaning_time": "cooking",
+      "duty": ""
+    },
+    {
+      "id": "1e70",
+      "name": "Liz",
+      "cleaning_time": "",
+      "duty": ""
+    },
+    {
+      "id": "a551",
+      "name": "Liz",
+      "cleaning_time": "",
+      "duty": ""
+    },
+    {
+      "id": "3a8f",
+      "name": "Liz",
+      "cleaning_time": "",
+      "duty": ""
+    },
+    {
+      "id": "0378",
+      "name": "Liz",
+      "cleaning_time": "Moring",
+      "duty": "cooking"
+    },
+    {
+      "id": "2862",
+      "name": "Liz",
+      "cleaning_time": "Moring",
+      "duty": "cooking"
+    },
+    {
+      "id": "405b",
+      "name": "David",
+      "cleaning_time": "",
+      "duty": ""
+    }
+  ]
+}
